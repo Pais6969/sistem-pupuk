@@ -1,0 +1,10 @@
+# foto bukti hasil upload (cukup foldernya saja)
+uploads/bukti/*
+!uploads/bukti/.htaccess
+!uploads/bukti/.gitkeep
+
+# file sistem / editor
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
